@@ -1,6 +1,10 @@
 header{
     background-color: rgb(0, 255, 191);
     text-align: center;
+    background-image: url("https://repository.unad.edu.co/themes/UNAD/images/logos/unad-logo-40_2.png");
+    background-repeat:no-repeat;
+    background-position-y:center;
+    background-size: 20rem;
 }
 nav{
     background-color: rgb(0, 225, 191);
@@ -10,6 +14,10 @@ section{background-color: rgb(0, 195, 191);
     grid-column: 1/4 ;
     text-align: justify;
     
+}
+article {background-color: rgb(0, 195, 191);
+    grid-column: 1/4 ; 
+    text-align: center;
 }
 aside{background-color: rgb(0, 165, 199);
     grid-column: 4/5;
